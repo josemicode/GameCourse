@@ -1,4 +1,4 @@
-# Python Pong game
+# Python Pong Game
 
 import turtle
 
