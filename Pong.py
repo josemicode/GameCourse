@@ -4,7 +4,7 @@ import turtle
 
 # Base Window Settings
 wn = turtle.Screen()
-wn.title("Retro Pong")
+wn.title("Retro-Pong")
 wn.bgcolor("green")
 wn.setup(width=500, height=500)
 wn.tracer(0)
